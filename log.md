@@ -8,3 +8,8 @@
 
 **Link to work:** [Temperature Conversion](src/Temperature.java)
 
+### Day 1: 25th July, 2017 (Project 2)
+**Today Progress**: Created Java program to count vowels(upper cases, lower cases and non-vowel) from given String. 
+**Thoughts** It was really simple. Non-vowel didn't work beacuse I was trying to count non-vowel inside vowels if-statement. 
+
+**Line to work:** [vowel Count](src/CountVowels.java)
