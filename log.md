@@ -13,3 +13,11 @@
 **Thoughts** It was really simple. Non-vowel didn't work beacuse I was trying to count non-vowel inside vowels if-statement. 
 
 **Line to work:** [vowel Count](src/CountVowels.java)
+
+### Day 2: 26th July, 2017 (Project 3)
+**Today Progress**: Program that asks user for 7 different temperature and present them with 
+ average temperature. 
+**Thoughts** This project would have been easy, if I just do it without Array but
+using Array makes it tricky.
+
+**Line to work:** [vowel Count](src/enhancedForArray.java)
