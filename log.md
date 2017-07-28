@@ -21,3 +21,9 @@
 using Array makes it tricky.
 
 **Line to work:** [vowel Count](src/enhancedForArray.java)
+
+### Day 3: 27th July, 2017 (Project 4)
+**Today Progress**: Starting learing 2Darrays, it's hard. getting to know better. 
+**Thoughts** Hard but fun. I think I need to do this more. The 2d thing.
+
+**Line to work:** [vowel Count](src/TwoDArrays.java)
